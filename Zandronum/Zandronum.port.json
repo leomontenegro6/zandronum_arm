@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "Zandronum.zip",
+  "items": [
+    "Zandronum.sh",
+    "Zandronum"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Zandronum",
+    "porter": [
+      "Solid One",
+      "Slayer366"
+    ],
+    "desc": "Zandronum is a multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software. Alongside the source port, it also contains the latest Skulltag assets that adds two campaign modes for playing deathmatch with bots, and invasion for killing hordes of monsters. It also adds new weapons, monsters, bot skins and announcers, resembling a lot later fps games such as Quake 3 Arena and Unreal Tournament.",
+    "inst": "You need to copy the original doom2.wad file to ports/Zandronum folder.",
+    "genres": [
+      "action",
+      "fps"
+    ],
+    "image": null,
+    "rtr": false,
+    "runtime": null,
+    "reqs": []
+  }
+}

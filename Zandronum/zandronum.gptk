@@ -1,0 +1,41 @@
+back = esc
+start = enter
+
+a = \"
+b = \"
+x = \"
+y = \"
+
+l1 = \"
+l2 = \"
+
+r1 = \"
+r2 = \"
+
+//reassign D-Pad in game options for aiming and switching inventory 
+up = \"
+down = \" 
+left = \"
+right = \"
+
+left_analog_up = \"
+left_analog_down = \"
+left_analog_left = \"
+left_analog_right = \"
+
+l3 = \"
+
+right_analog_up = \"
+right_analog_down = \" 
+right_analog_left = \"
+right_analog_right = \"
+
+r3 = \"
+
+//deadzone_triggers = 0
+
+//mouse_scale = 2048
+//mouse_delay = 16
+
+//deadzone_y = 2100
+//deadzone_x = 1900

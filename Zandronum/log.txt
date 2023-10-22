@@ -1,0 +1,9 @@
+librga:RGA_GET_VERSION:4.00,4.000000 
+ctx=0x55b6de4790,ctx->rgaFd=3 
+Rga built version:version:+2017-09-28 10:12:42 
+Zandronum 3.1 - 211211-2135 - SDL version
+Compiled on Aug 27 2023
+Using video driver KMSDRM
+
+M_LoadDefaults: Load system defaults.
+Gameinfo scan took 153 ms
